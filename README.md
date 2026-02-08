@@ -47,21 +47,22 @@ Below is a qualitative comparison between the input SDR image, the reconstructed
 
 
 <p align="center">
-  <figure style="display: inline-block; margin: 10px;">
+  <figure style="display: inline-block; margin: 10px; text-align: center;">
     <img src="assets/0004_SDR.jpg" width="250" alt="SDR Input"/>
-    <figcaption>Input (SDR)</figcaption>
+    <figcaption><b>Input (SDR)</b></figcaption>
   </figure>
-  
-  <figure style="display: inline-block; margin: 10px;">
+
+  <figure style="display: inline-block; margin: 10px; text-align: center;">
     <img src="assets/0004_Model.jpg" width="250" alt="HDR Prediction"/>
-    <figcaption>Prediction (HDR)</figcaption>
+    <figcaption><b>Prediction (HDR)</b></figcaption>
   </figure>
-  
-  <figure style="display: inline-block; margin: 10px;">
+
+  <figure style="display: inline-block; margin: 10px; text-align: center;">
     <img src="assets/0004_GT.jpg" width="250" alt="Ground Truth HDR"/>
-    <figcaption>Ground Truth (HDR)</figcaption>
+    <figcaption><b>Ground Truth (HDR)</b></figcaption>
   </figure>
 </p>
+
 
 In most cases the model was able to achieve a visual alignment to the ground truth image.
 
