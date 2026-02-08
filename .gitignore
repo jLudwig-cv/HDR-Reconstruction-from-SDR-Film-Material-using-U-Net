@@ -1,0 +1,6 @@
+.venv
+logdir
+U-Net ITM Workflow/__pycache__/
+U-Net ITM Workflow/image_output/
+U-Net ITM Workflow/model_output/
+U-Net ITM Workflow/data
