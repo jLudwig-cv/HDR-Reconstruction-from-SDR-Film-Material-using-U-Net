@@ -1,4 +1,4 @@
-### HDR Reconstruction from SDR Film Material using U-Net
+# HDR Reconstruction from SDR Film Material using U-Net
 
 This project investigates the impact of native dataset on the performance of a U-Net-based architecture for Inverse Tone Mapping (SDR → HDR) in film material.
 
