@@ -43,24 +43,20 @@ The RGB model was selected due to its ability to additionally learn color gamut 
 Below is a qualitative comparison between the input SDR image, the reconstructed HDR output using the RGB-based model trained on the native dataset and the ground truth HDR image. 
 
 
-<div style="text-align: center;">
+<p align="center">
+  <img src="assets/0004_SDR.jpg" width="300" alt="SDR Input"/><br>
+  <b>Input (SDR)</b>
+</p>
 
-  <div style="margin-bottom: 20px;">
-    <img src="assets/0004_SDR.jpg" width="300" alt="SDR Input"/><br>
-    <b>Input (SDR)</b>
-  </div>
+<p align="center">
+  <img src="assets/0004_Model.jpg" width="300" alt="HDR Prediction"/><br>
+  <b>Prediction (HDR)</b>
+</p>
 
-  <div style="margin-bottom: 20px;">
-    <img src="assets/0004_Model.jpg" width="300" alt="HDR Prediction"/><br>
-    <b>Prediction (HDR)</b>
-  </div>
-
-  <div style="margin-bottom: 20px;">
-    <img src="assets/0004_GT.jpg" width="300" alt="Ground Truth HDR"/><br>
-    <b>Ground Truth (HDR)</b>
-  </div>
-
-</div>
+<p align="center">
+  <img src="assets/0004_GT.jpg" width="300" alt="Ground Truth HDR"/><br>
+  <b>Ground Truth (HDR)</b>
+</p>
 
 
 
